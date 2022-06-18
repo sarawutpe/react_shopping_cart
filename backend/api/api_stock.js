@@ -9,6 +9,7 @@ const productSchema = require("../models/product_model");
 
 // Upload and validate image function
 uploadImage = async (files) => {
+  
   try {
     // Check file not empty
     // Check images size < 1MB (1MB = 1048576 bytes)
@@ -24,6 +25,7 @@ uploadImage = async (files) => {
   } catch (error) {
     return false
   }
+
  
 };
 
