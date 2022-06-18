@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "605c96719724955c10e0b1ef"
+  },
+  "name": "msi",
+  "image": "msi.jpg",
+  "price": 7000,
+  "stock": 550,
+  "date": {
+    "$date": "2021-03-25T13:56:01.250Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605dbaf9307d51303801b9f5"
+  },
+  "name": "test 001",
+  "price": 300,
+  "stock": 1,
+  "date": {
+    "$date": "2021-03-26T10:44:09.011Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60648ec10a9f125a789d0ad8"
+  },
+  "name": "test",
+  "image": "7285.jpg",
+  "price": 999,
+  "stock": 1,
+  "date": {
+    "$date": "2021-03-31T15:01:21.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60648ec70a9f125a789d0ad9"
+  },
+  "name": "a",
+  "image": "asus.jpg",
+  "price": 5,
+  "stock": 1,
+  "date": {
+    "$date": "2021-03-31T15:01:27.957Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60648ece0a9f125a789d0ada"
+  },
+  "name": "1",
+  "image": "formidable image files.PNG",
+  "price": 1,
+  "stock": 5,
+  "date": {
+    "$date": "2021-03-31T15:01:34.917Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60648ed40a9f125a789d0adb"
+  },
+  "name": "1",
+  "price": 22,
+  "stock": 5,
+  "date": {
+    "$date": "2021-03-31T15:01:40.009Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60648edb0a9f125a789d0adc"
+  },
+  "name": "a",
+  "image": "7285.jpg",
+  "price": 22,
+  "stock": 5,
+  "date": {
+    "$date": "2021-03-31T15:01:47.145Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60682718cc2da63e60ba77e7"
+  },
+  "name": "test",
+  "image": "Capture.JPG",
+  "price": 222,
+  "stock": 222,
+  "date": {
+    "$date": "2021-04-03T08:28:08.997Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60682731cc2da63e60ba77e8"
+  },
+  "name": "test",
+  "image": "menu_banner.jpg",
+  "price": 22,
+  "stock": 5,
+  "date": {
+    "$date": "2021-04-03T08:28:33.706Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60682750cc2da63e60ba77e9"
+  },
+  "name": "test",
+  "image": "result.PNG",
+  "price": 33,
+  "stock": 33,
+  "date": {
+    "$date": "2021-04-03T08:29:04.498Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608132315620953968cb7f6a"
+  },
+  "name": "test",
+  "price": 22,
+  "stock": 1,
+  "date": {
+    "$date": "2021-04-22T08:22:09.885Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608132445620953968cb7f6b"
+  },
+  "name": "teste2",
+  "image": "unnamed.png",
+  "price": 555,
+  "stock": 45,
+  "date": {
+    "$date": "2021-04-22T08:22:28.225Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617fa4a038399a05288329fd"
+  },
+  "name": "test",
+  "image": "รองเท้า ULTRABOOST DNA X LEGO® COLORS.jpg",
+  "price": 200,
+  "stock": 1,
+  "date": {
+    "$date": "2021-11-01T08:26:08.812Z"
+  },
+  "__v": 0
+}]

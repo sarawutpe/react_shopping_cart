@@ -48,7 +48,7 @@ export default function App() {
             <Route path="/cart" component={CartPage} />
             <Route path="/checkout" component={Checkout} />
 
-            <SecuredRoute path="/stock" component={Stock} />
+            {/* <SecuredRoute path="/stock" component={Stock} /> */}
             <SecuredRoute path="/stockCreate" component={StockCreate} />
             <SecuredRoute path="/stockEdit/:id" component={StockEdit} />
 
